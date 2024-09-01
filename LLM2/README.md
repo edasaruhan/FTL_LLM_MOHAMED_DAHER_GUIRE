@@ -1,5 +1,7 @@
 
 GPT-2 Text Generation Application
+
+
 This project involves creating a basic text generation application utilizing the GPT-2 model to produce text based on user-provided prompts. The focus is specifically on generating content related to the United Nations Sustainable Development Goals (SDGs). The application was developed as part of an assignment aimed at exploring the capabilities of open-source generative AI models.
 To run the project, ensure you have Python installed. Additionally, you will need to install a few necessary libraries:
 
